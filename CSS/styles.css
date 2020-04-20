@@ -1,0 +1,94 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    background-color: #e9ecef;
+}
+
+.div {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#breadcrum {
+    margin-bottom: 0px;
+    background: #343a40;
+}
+
+#navbar-container {
+    background: #343a40 !important;
+}
+
+.header {
+    margin-bottom: 0px;
+}
+
+a {
+    font-size: 20px;
+}
+
+#breadcrum {
+    font-size: 15px;
+    color: wheat;
+    margin-bottom: 0%;
+}
+
+.nav .ol .li {
+    background-color: #343a40 !important;
+    margin-bottom: 0%;
+}
+
+#breadcrum {
+    background-color: #343a40 !important;
+    margin-bottom: 0%;
+}
+
+.aria-label {
+    background-color: #343a40;
+    margin-bottom: 0%;
+}
+
+.jumbotron.jumbotron-fluid {
+    margin-bottom: 0%;
+    margin: 0cm;
+    background-color: #df0024;
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    height: 150px;
+}
+
+.carousel.slide {
+    margin-bottom: 0px;
+}
+
+.jumbotron {
+    margin-top: 0px;
+    margin-bottom: 0%;
+    margin: 0px;
+}
+
+.footer-copyright.text-center.py-3 {
+    background: #343a40;
+    color: white;
+    margin-top: 0px;
+}
+
+.container-fluid {
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 20px;
+    background: #e9ecef;
+}
+
+p.noticetext {
+    font-size: 30px;
+    text-align: justify;
+}
+
+.div.jumbotron-text {
+    background: #e9ecef;
+}
